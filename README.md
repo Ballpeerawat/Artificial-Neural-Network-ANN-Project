@@ -1,1 +1,1 @@
-# Bank-Financial-Loan
+# Convolutional Neural Network (CNN) Project
